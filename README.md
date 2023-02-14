@@ -1,15 +1,18 @@
-## Getting Started
+# Feedback service
 
-### Install dependencies (node.js required)
+Студенческий проект, предназначенный для сбора обратной связи от сотрудников в компании. Позволяет собирать отзывы, анализировать их и делиться с другими сотрудниками.
 
-```bash
-npm install
-```
+**Стек** - React/Next.js, MantineUI, react-query, final-form, zustand
 
-### Run the development server:
+**Особенности**
+- Авторизация через GitLab
+- Режим администратора
+- Валидация форм с помощью final-form
+- [FSD](https://feature-sliced.design) архитектура
 
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![main](main.png)
+![profile](profile.png)
+![feedback](feedback.png)
+![admin-feedback](admin-feedback.png)
+![event](event.png)
+![career](career.png)
