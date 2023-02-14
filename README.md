@@ -9,6 +9,7 @@
 - Режим администратора
 - Валидация форм с помощью final-form
 - [FSD](https://feature-sliced.design) архитектура
+- Storybbok для документации компонентов
 
 ![main](main.png)
 ![profile](profile.png)
@@ -16,3 +17,4 @@
 ![admin-feedback](admin-feedback.png)
 ![event](event.png)
 ![career](career.png)
+![storybook](storybook.png)
